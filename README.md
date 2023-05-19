@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=Equinox766&theme=vue&show_icons=true)](https://github.com/Equinox766)
 ### Skills
 
 <p align="left">

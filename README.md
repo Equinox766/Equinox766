@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=Equinox766&theme=vue&show_icons=true)](https://github.com/Equinox766)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equinox766&show_icons=true&theme=radical)
 
 # Skills
 

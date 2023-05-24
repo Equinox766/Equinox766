@@ -1,7 +1,7 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equinox766&show_icons=true&theme=gotham)
 ## Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Equinox766&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equinox766&show_icons=true&theme=gotham)
 
 
 

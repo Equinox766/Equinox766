@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">Framekorks / Librerias :crystal_ball: </h3>
+<h3 align="center">Frameworks / Librerias :crystal_ball: </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">

@@ -41,7 +41,17 @@ Here are some ideas to get you started:
 </div>
 
 
-# Socials
+<h3 align="center">Contacto</h3>
 
-<p align="left"> <a href="https://www.github.com/Equinox766" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArrobaManu_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div align="center">    
+  <a href="https://t.me/Equinox766" target="_blank" >
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>  
+  <a href="https://www.twitter.com/ArrobaManu_" target="_blank" >
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emanuel-lezcano/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+</div>

@@ -13,21 +13,25 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=equinox766&theme=dark&hide_border=true&border_radius=3.8&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-#Lenguajes
+
+<h3 align="center">Lenguajes :metal:</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,php,java,py,cs" />
   </a>
 </p>
 
-#Framekorks / Librerias
+<h3 align="center">Framekorks / Librerias :crystal_ball: </h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,spring,maven,dotnet,html,css,tailwind,bootstrap,materialui" />
   </a>
 </p>
 
-#Herramientas
+
+<h3 align="center">Herramientas :wrench: :hammer:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,postgres,docker,linux,postman,idea,visualstudio,vscode,vite" />

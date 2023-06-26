@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equinox766&show_icons=true&theme=gotham)
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=equinox766&layout=compacttheme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=equinox766&layout=compact&theme=gotham)
 
 
 

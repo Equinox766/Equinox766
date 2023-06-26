@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=equinox766&theme=dark&hide_border=true&border_radius=3.8&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 
 <h3 align="center">Lenguajes :metal:</h3>
 
@@ -38,6 +36,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<div align="center">    
+    <img align="center" src="https://streak-stats.demolab.com?user=equinox766&theme=dark&hide_border=true&border_radius=3.8&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
+</div>
 
 
 # Socials

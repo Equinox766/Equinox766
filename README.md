@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div align="center">    
-    <img align="center" src="https://streak-stats.demolab.com?user=equinox766&theme=dark&hide_border=true&border_radius=3.8&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
-</div>
 
 
 <h3 align="center">Contacto</h3>

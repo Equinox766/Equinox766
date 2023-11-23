@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,spring,maven,dotnet,html,css,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,nodejs,spring,maven,dotnet,html,css,tailwind,bootstrap,materialui" />
   </a>
 </p>
 

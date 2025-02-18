@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Lenguajes :metal:</h3>
 
-<p align="center">
+<p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,php,java,py,cs" />
   </a>
